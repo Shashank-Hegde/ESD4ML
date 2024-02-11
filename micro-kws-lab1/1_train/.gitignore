@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.venv/
+venv/
+.env/
+env/
+__pycache__/
+*.pyc
+accuracy.txt
+estimations.txt
+submission.zip

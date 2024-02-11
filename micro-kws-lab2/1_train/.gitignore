@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+.venv/
+venv/
+.env/
+env/
+models/
+grading/
+__pycache__/
+*.pyc
+accuracy.txt
+estimations.txt
+*.zip
